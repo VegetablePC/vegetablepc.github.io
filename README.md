@@ -8,7 +8,7 @@
 
 ## Usage
 
-To use the Minimal theme:
+To use the Minimal theme: x
 
 1. Add the following to your site's `_config.yml`:
 
