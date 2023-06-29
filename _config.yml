@@ -1,0 +1,9 @@
+# Site settings
+title: Vegetable Analytics
+author:
+  name: Jonathon Hall
+  email: JonathonLHall@gmail.com
+description: "Meant for my data analysis portfolio."
+
+# Build settings
+remote_theme: jekyll/minima
